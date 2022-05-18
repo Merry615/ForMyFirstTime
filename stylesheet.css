@@ -54,6 +54,7 @@ li {
 .contents-item {
   float: left;
   margin-right: 10px;
+  font-size: 28px;
 }
 
 .contents-item p {
